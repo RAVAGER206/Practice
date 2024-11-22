@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\NikitaWorking3\NikitaWorking\DB_Library\bin\Release\DB_Library.exe.config
+C:\Users\admin\Desktop\NikitaWorking3\NikitaWorking\DB_Library\bin\Release\DB_Library.exe
+C:\Users\admin\Desktop\NikitaWorking3\NikitaWorking\DB_Library\bin\Release\DB_Library.pdb
+C:\Users\admin\Desktop\NikitaWorking3\NikitaWorking\DB_Library\obj\Release\DB_Library.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\NikitaWorking3\NikitaWorking\DB_Library\obj\Release\DB_Library.LoginPage.resources
+C:\Users\admin\Desktop\NikitaWorking3\NikitaWorking\DB_Library\obj\Release\DB_Library.Properties.Resources.resources
+C:\Users\admin\Desktop\NikitaWorking3\NikitaWorking\DB_Library\obj\Release\DB_Library.RegistPage.resources
+C:\Users\admin\Desktop\NikitaWorking3\NikitaWorking\DB_Library\obj\Release\DB_Library.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\NikitaWorking3\NikitaWorking\DB_Library\obj\Release\DB_Library.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\NikitaWorking3\NikitaWorking\DB_Library\obj\Release\DB_Library.exe
+C:\Users\admin\Desktop\NikitaWorking3\NikitaWorking\DB_Library\obj\Release\DB_Library.pdb
